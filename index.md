@@ -1,4 +1,4 @@
-## Zack Giang
+## Evictions, Ellis Act, and Affordable Housing
 
 You can use the [editor on GitHub](https://github.com/ZackGiang/justiceblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
