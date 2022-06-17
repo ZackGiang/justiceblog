@@ -1,5 +1,3 @@
-# Zack Giang
-
 # Mapping Evictions, Ellis Act, and Affordable Housing 
 
 ## Evictions and the Ellis Act
@@ -31,4 +29,4 @@ However, this proposed mapping project has its downfalls as well. Due to its sim
 
 Though these variables serve as limitations in my proposed mapping project, I hope the map will succeed in visualizing affordable housing throughout the years just as AEMP’s Ellis Act eviction map succeeded in visualizing Ellis evictions throughout time in San Francisco.
 
-
+*Blog post by _Zack Giang_*
