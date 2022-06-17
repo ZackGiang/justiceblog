@@ -31,6 +31,7 @@ However, this proposed mapping project has its downfalls as well. Due to its sim
 
 Though these variables serve as limitations in my proposed mapping project, I hope the map will succeed in visualizing affordable housing throughout the years just as AEMP’s Ellis Act eviction map succeeded in visualizing Ellis evictions throughout time in San Francisco.
 
-
+<sub>Martin Luther King Marcus-Garvey Square Cooperative Apartments</sub>
+![image](https://user-images.githubusercontent.com/106704630/174260257-fc64d33e-9e75-4b43-a4d1-acb3ab58c457.png)
 
 *Blog post by **Zack Giang***
