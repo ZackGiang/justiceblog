@@ -8,7 +8,7 @@ Most commonly, corporate landlords in the city have implemented the Ellis Act to
 
 ## Anti-Eviction Mapping Project
 
-However, this trend has not gone unnoticed. In 2013, an organization called the Anti-Eviction Mapping Project (AEMP) released a mapping tool dedicated to visualizing and uncovering the dramatic impact of the Ellis Act on evictions in San Francisco. The map represents Ellis Act evictions as red circles of varying sizes that mark the location of the evictions on a map of San Francisco as time progresses. The circles are scaled proportionally to the amount of people evicted in order to communicate the severity and size of each eviction event. All in all, it is an extremely effective visualization that manages to capture the scope of the evictions, the locations of their occurrences, and the relationship between place and time. 
+However, this trend has not gone unnoticed. In 2013, an organization called the [Anti-Eviction Mapping Project (AEMP)](https://antievictionmap.com/) released a mapping tool dedicated to visualizing and uncovering the dramatic impact of the Ellis Act on evictions in San Francisco. The map represents Ellis Act evictions as red circles of varying sizes that mark the location of the evictions on a map of San Francisco as time progresses. The circles are scaled proportionally to the amount of people evicted in order to communicate the severity and size of each eviction event. All in all, it is an extremely effective visualization that manages to capture the scope of the evictions, the locations of their occurrences, and the relationship between place and time. 
 
 ![Ellis Act Evictions Map by Anti-Eviction Mapping Project(AEMP)](http://www.antievictionmappingproject.net/ellis.jpg)
 
