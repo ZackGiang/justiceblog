@@ -1,3 +1,1 @@
 # justiceblog
-
-hello
